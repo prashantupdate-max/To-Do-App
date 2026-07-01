@@ -1,4 +1,4 @@
-# 🚀 To-Do App
+# 🧩 To-Do App
 
 A modern, responsive, and feature-rich task management application built with **HTML, CSS, and JavaScript**.
 
@@ -12,7 +12,7 @@ A modern, responsive, and feature-rich task management application built with **
 </p>
 
 
-# 📝 Task Management
+# ✳️ Management
 - Add new tasks instantly
 - Edit tasks with a custom popup modal
 - Delete tasks with a single click
