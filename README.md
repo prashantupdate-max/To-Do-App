@@ -9,7 +9,8 @@ A modern, responsive, and feature-rich task management application built with **
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Responsive-Yes-22C55E?style=for-the-badge">
-<img src="https://img.shields.io/badge/Build-Better%20README-000000?style=for-the-badge&logo=github">
+
+<img src="https://img.shields.io/badge/Resources-100+-3B82F6?style=for-the-badge">
 </p>
 
 
