@@ -1,12 +1,7 @@
-# 🚀 TaskFlow Pro
-
-<div align="center">
-
-### Organize Your Day. Boost Your Productivity.
+# 🚀 To-Do App
 
 A modern, responsive, and feature-rich task management application built with **HTML, CSS, and JavaScript**.
 
-</div>
 
 
 ## ✨ Key Features
