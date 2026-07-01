@@ -19,4 +19,4 @@ A modern, responsive, and feature-rich task management application built with **
 - Mark tasks as completed
 - Undo completed tasks anytime
 
-⭐ Beginner-friendly UI project.
+### ⭐ Beginner-friendly UI project.
