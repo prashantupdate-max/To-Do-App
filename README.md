@@ -4,8 +4,6 @@ A modern, responsive, and feature-rich task management application built with **
 
 
 
-## ✨ Key Features
-
 ### 📝 Task Management
 - Add new tasks instantly
 - Edit tasks with a custom popup modal
